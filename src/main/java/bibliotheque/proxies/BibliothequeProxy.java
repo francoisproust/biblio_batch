@@ -1,6 +1,5 @@
 package bibliotheque.proxies;
 
-import bibliotheque.modele.Email;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 
