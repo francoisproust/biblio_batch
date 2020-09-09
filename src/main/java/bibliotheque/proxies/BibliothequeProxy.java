@@ -10,6 +10,6 @@ import java.util.List;
 public interface BibliothequeProxy {
 
     @GetMapping("/lister-retard")
-    List<Email> listerMail();
+    List<String> listerMail();
 
 }
