@@ -1,6 +1,6 @@
-package bibliotheque.steps;
+package bibliotheque.bibliobatch.steps;
 
-import bibliotheque.service.RappelService;
+import bibliotheque.bibliobatch.service.RappelService;
 import org.springframework.batch.core.StepContribution;
 import org.springframework.batch.core.scope.context.ChunkContext;
 import org.springframework.batch.core.step.tasklet.Tasklet;

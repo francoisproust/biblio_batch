@@ -1,4 +1,4 @@
-package bibliotheque.service;
+package bibliotheque.bibliobatch.service;
 
 import org.springframework.stereotype.Service;
 
