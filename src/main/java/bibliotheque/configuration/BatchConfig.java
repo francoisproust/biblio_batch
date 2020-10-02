@@ -1,6 +1,6 @@
-package bibliotheque.bibliobatch.configuration;
+package bibliotheque.configuration;
 
-import bibliotheque.bibliobatch.steps.EnvoiMailTasklet;
+import bibliotheque.steps.EnvoiMailTasklet;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;

@@ -1,4 +1,4 @@
-package bibliotheque.bibliobatch;
+package bibliotheque;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

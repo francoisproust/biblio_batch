@@ -1,7 +1,7 @@
-package bibliotheque.bibliobatch.service;
+package bibliotheque.service;
 
 
-import bibliotheque.bibliobatch.proxies.BibliothequeProxy;
+import bibliotheque.proxies.BibliothequeProxy;
 import org.springframework.stereotype.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
